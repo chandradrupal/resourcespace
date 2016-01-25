@@ -16,7 +16,7 @@ test local 2
 test local 2
 test local 2
 
-test local 3
+test local 3cxxcdds sdssds
 
 ?>
 
